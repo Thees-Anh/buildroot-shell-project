@@ -7,7 +7,11 @@ This project is developed as part of the Linux System Programming and Buildroot 
 The Shell Programming module provides a simple command-line System Management Tool developed using Bash Shell on Ubuntu Linux. The project demonstrates fundamental Linux administration tasks including file management, task scheduling, system information retrieval, package management, and time management.
 
 ---
+## Main Interface
 
+<p align="center">
+  <img src="screenshots/main-menu.png" width="800">
+</p>
 ## Features
 
 ### 1. File Manager
